@@ -3,4 +3,4 @@ Problem statement:- XYZ is a courier company. The company is passing through gen
 
 1) What changed company should bring to reduce the number of Abseentism?
 
-2)How much losses every month can we project in 2011 if same trend of Abseentism continues.
+2) How much losses every month can we project in 2011 if same trend of Abseentism continues.
